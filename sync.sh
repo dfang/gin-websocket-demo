@@ -1,0 +1,1 @@
+rsync -avP --exclude='.git' --exclude='gin-websocket' --exclude='tmp' . w2:~/gin-websocket-demo/

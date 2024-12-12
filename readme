@@ -1,0 +1,11 @@
+https://github.com/tarasyyyk/mql5-websocket
+https://github.com/vivazzi/mql_debug
+https://github.com/vivazzi/JAson
+
+
+WriteMessage returns the status of writing the data to the underlying network connection. There's no guarantee that data written to the underlying network connection is received by the peer application.
+
+Use an application-level protocol to detect broken connections. See the chat example for one way to do this.
+
+
+https://github.com/gorilla/websocket/issues/272#issuecomment-322229427
